@@ -14,7 +14,8 @@ body{
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  font-family: Waltograph;
+  font-family: Herculanum;
+  color: darkblue;
 }
 
 img{
@@ -24,6 +25,7 @@ img{
 
 h1{
   font-size: 6em;
+  text-decoration: underline;
   padding: 0px;
   border: 0px;
   margin: 0px;
